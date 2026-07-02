@@ -10,3 +10,4 @@ jupyterlab
 ipykernel
 streamlit
 joblib
+python-3.11
