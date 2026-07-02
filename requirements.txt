@@ -4,7 +4,7 @@ matplotlib
 seaborn
 scikit-learn
 scipy
-tensorflow
+tensorflow==2.19.0
 notebook
 jupyterlab
 ipykernel
