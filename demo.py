@@ -10,7 +10,7 @@ def load_model():
 
     if not os.path.exists(MODEL_PATH):
         gdown.download(
-            "https://drive.google.com/uc?id=1ABfmnXOOBtJZ38I-jXS-RcVyY4Xsw4DA",
+            "https://drive.google.com/uc?id=1oQsuRPuSNw1d9CjdsEklaCo2G-RKCD6y",
             MODEL_PATH,
             quiet=False
         )
