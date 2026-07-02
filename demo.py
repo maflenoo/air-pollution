@@ -4,6 +4,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import streamlit as st
+import os
 
 @st.cache_resource(show_spinner="Downloading & loading model...")
 def load_model():
